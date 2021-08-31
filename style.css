@@ -87,7 +87,7 @@ main{
 }
 
 .blog-image{
-  height: 10px;
+  height: 180px;
 }
 
 .blog-text{
@@ -109,6 +109,22 @@ main{
   border-radius: 3px;
   color: #fff;
   font-size: 11px;
+}
+
+.pagination{
+  text-align: center;
+  padding-top: 50px;
+}
+
+.pagination p{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+  color: #fff;
+  background-color: #acabab;
+  border-radius: 3px;
+  line-height: 30px;
 }
 
 .sidebar {
